@@ -1,0 +1,5 @@
+name: FMC-Plugin
+main: FMC\Main
+version: 1.0.0
+api: 5.19.0
+author: Bella
